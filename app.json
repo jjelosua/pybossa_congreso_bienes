@@ -1,0 +1,7 @@
+{
+    "name": "Registro de bienes del congreso",
+    "short_name": "congreso_bienes",
+    "thumbnail": "http://i.imgur.com/jUvQBm3.png",
+    "description": "Ayúdanos a abrir los datos de las declaraciones de bienes de nuestros diputados",
+    "question": "Transcribe los datos de esta página"
+}
